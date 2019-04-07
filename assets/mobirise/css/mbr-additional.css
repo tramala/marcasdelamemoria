@@ -2297,8 +2297,8 @@ body {
   background-color: #ffffff;
 }
 .cid-rmV0yEgbft .line {
-  background-color: #149dcc;
-  color: #149dcc;
+  background-color: #7f1933;
+  color: #7f1933;
   align: center;
   height: 2px;
   margin: 0 auto;
@@ -2311,18 +2311,6 @@ body {
 }
 @media (max-width: 768px) {
   .cid-rmV0yEgbft .inner-container {
-    width: 100% !important;
-  }
-}
-.cid-rmVgryKKgB {
-  background: #ffffff;
-}
-.cid-rmVgryKKgB .video-block {
-  margin: auto;
-  width: 100% !important;
-}
-@media (max-width: 768px) {
-  .cid-rmVgryKKgB .video-block {
     width: 100% !important;
   }
 }
